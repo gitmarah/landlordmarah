@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @landlordmarah
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on this platform with other developpers
+- 💞️ I’m looking to collaborate on this platform with other developers
 - 📫 You can reach me at marahabubakarr2112@gmial.com
 
 <!---
